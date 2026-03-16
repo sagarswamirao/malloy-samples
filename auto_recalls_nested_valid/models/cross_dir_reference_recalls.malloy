@@ -1,0 +1,3 @@
+import '../data/same_dir_import.malloy'
+
+source: recalls_cross_dir_imported_source  is recalls_imported_ref

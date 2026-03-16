@@ -1,0 +1,7 @@
+import 'recalls.malloy'
+
+-- import '../data/recalls.malloy'
+
+
+
+source: recalls_imported_ref is recalls
